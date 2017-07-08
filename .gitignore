@@ -1,3 +1,4 @@
 *.jl.cov
 *.jl.*.cov
 *.jl.mem
+F90/Slopefail_anim.dat
